@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://nesoai.github.io/neso/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://nesoai.github.io/proforma/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/capstack/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/marketscope/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/planforge/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/grantfit/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/buildbrief/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/marketfit/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/siteshaper/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nesoai.github.io/birdseye/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nesoai.github.io/mallory/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>
